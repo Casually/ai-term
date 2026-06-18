@@ -1,0 +1,4 @@
+provider = "丰小子"
+api_url = "https://openrouter.fengxiaozi.net/api"
+api_key = "sk-myproxy-"
+model = "dashscope/deepseek-v4-pro"
