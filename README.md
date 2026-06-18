@@ -51,8 +51,8 @@ cargo run --release
 [llm]
 provider = "openai"
 api_key = "sk-你的丰小子API_KEY"
-base_url = "https://openrouter.fengxiaozi.net/v1"
-model = "anthropic/claude-3.5-sonnet"
+base_url = "https://openrouter.fengxiaozi.net/api"
+model = "dashscope/deepseek-v4-pro"
 ```
 
 #### 备选方案 A：Gemini 原生接口
